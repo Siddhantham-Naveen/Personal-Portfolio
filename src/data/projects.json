@@ -6,6 +6,14 @@
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://shopmart-sigma.vercel.app/",
     "source": "https://github.com/Siddhantham-Naveen/Shopmart"
+  },
+   {
+    "title": "FitFuel Pro",
+    "imageSrc": "projects/project1.png",
+    "description": "tFuel Pro is a responsive, single-page web application built with React and Tailwind CSS. It serves as an all-in-one guide.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://fitfuel-one.vercel.app/",
+    "source": "https://github.com/Siddhantham-Naveen/fitfuel"
   }
   
   
